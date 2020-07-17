@@ -2,3 +2,4 @@ Sphinx
 sphinxcontrib-napoleon
 sphinxcontrib-apidoc
 m2r
+m2r2
