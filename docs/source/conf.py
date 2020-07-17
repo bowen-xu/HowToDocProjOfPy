@@ -85,3 +85,5 @@ apidoc_module_dir = project_path
 apidoc_output_dir = 'python_apis'
 # apidoc_excluded_paths = ['tests']
 apidoc_separate_modules = True
+
+master_doc = 'index'
