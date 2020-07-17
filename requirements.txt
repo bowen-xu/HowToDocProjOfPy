@@ -1,0 +1,4 @@
+Sphinx
+sphinxcontrib-napoleon
+sphinxcontrib-apidoc
+m2r
